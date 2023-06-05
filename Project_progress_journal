@@ -3,3 +3,13 @@ Started working on project today, Doing the reseach work and collecting the nece
 Decided to write smartcontract in RUST language and staring to learn RUST programming today, reason for choosing rust were : it is much memory safe, and better for future perspective.
 Insalled docker and rust on my WSL2 having ubuntu OS.
 Next step is to learn Rust programming along side writing smart contracts with it. Wish me luck :)
+
+DAY2:
+so day is happened after a gapof few days because of semester exams. Covered rust topics (basic) and moving to beginner level to indermidiate-begineer.
+As a part of learning process starting with the PROJECT "Hangman" a simple game using RUST and its Libraries.
+Will be uploading this game on different repo. will provide link to it here: 
+.
+.
+.
+Next step will be to move at Cosmos-Chain and getting started with Ignite CLI.
+That's all for day2.
